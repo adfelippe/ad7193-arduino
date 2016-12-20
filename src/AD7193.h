@@ -1,15 +1,9 @@
-/***** Robert Bosch Ltda *****/
-
 /*
 
 *** AD7193.h ***
-* Header file for the AD7193 driver -> SPI Bus
+* AD7193 driver port to Arduino Platform
 
-PROJECT:    JUMA
-BOARD:      WAGYU-ARDUINO
-AUTHOR:     ANDERSON FELIPPE/MATHEUS CONCEIÇÃO
-DATE:       08/12/2016
-
+Ported by: Anderson Felippe <adfelippe@gmail.com>
 
 */
 

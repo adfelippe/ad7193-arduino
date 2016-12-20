@@ -1,14 +1,10 @@
-/***** Robert Bosch Ltda *****/
-
 /*
 
 *** SPI_HAL.h ***
-* SPI HAL header for interfacing the AD7193 using the SPI lib on Arduino
+* SPI HAL for interfacing the AD7193 using the SPI lib on Arduino
 
-PROJECT:    JUMA
-BOARD:      WAGYU-ARDUINO
-AUTHOR:     ANDERSON FELIPPE/MATHEUS CONCEIÇÃO
-DATE:       08/12/2016
+AUTHOR:     Anderson Felippe <adfelippe@gmail.com>
+DATE:       Jun/2015
 
 */
 
